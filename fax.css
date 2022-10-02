@@ -1,6 +1,7 @@
 ol
 {
     font-size: 25px;
+    color: white;
 }
 
 table,td,th
@@ -12,6 +13,7 @@ table,td,th
     text-align: center;
     padding: 10px;
     background-color: brown;
+    color: white;
 }
 
 body
@@ -25,4 +27,5 @@ h1
     text-transform: uppercase;
     text-decoration: underline;
     background-color: red;
+    color: white;
 }

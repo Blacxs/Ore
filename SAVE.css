@@ -1,6 +1,11 @@
 ol
 {
     font-size: 25px;
+
+}
+
+li{
+    color: white;
 }
 
 table,td,th
